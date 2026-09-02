@@ -1,0 +1,10 @@
+header{
+    text-align: center;
+    padding: 20px;
+}
+header h1{
+    margin-bottom: 10px;
+}
+header p{
+    color: #808080;
+}

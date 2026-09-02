@@ -1,0 +1,18 @@
+section {
+  text-align: center;
+  margin: 30px auto;
+}
+
+section span {
+  margin: 0 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+section button {
+  padding: 8px 15px;
+  font-size: 20px;
+  border:none;
+  border-radius: 8px;
+  color: #343434;
+}
